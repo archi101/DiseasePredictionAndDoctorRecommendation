@@ -1,7 +1,4 @@
 # DiseasePredictionAndDoctorRecommendation
-
-In your README file, you can provide clear instructions for setting up and running your Streamlit web app. Here's a revised version of the instructions:
-
 ---
 
 ## HealthCare Recommendation System
@@ -42,5 +39,6 @@ To clone this folder into your local PC and run the web application, follow thes
 ### Usage
 Once the Streamlit server is running, you can interact with the healthcare recommendation system web application in your web browser. Follow the on-screen instructions to input symptoms, view recommended doctors, and explore additional functionalities.
 
+---
 ### Note
 Make sure to have the necessary Python dependencies installed and configured in your environment before running the Streamlit app.
